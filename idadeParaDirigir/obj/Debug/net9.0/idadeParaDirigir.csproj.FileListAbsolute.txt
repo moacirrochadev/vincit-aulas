@@ -1,0 +1,14 @@
+C:\projetos\vincit-aulas\idadeParaDirigir\bin\Debug\net9.0\idadeParaDirigir.exe
+C:\projetos\vincit-aulas\idadeParaDirigir\bin\Debug\net9.0\idadeParaDirigir.deps.json
+C:\projetos\vincit-aulas\idadeParaDirigir\bin\Debug\net9.0\idadeParaDirigir.runtimeconfig.json
+C:\projetos\vincit-aulas\idadeParaDirigir\bin\Debug\net9.0\idadeParaDirigir.dll
+C:\projetos\vincit-aulas\idadeParaDirigir\bin\Debug\net9.0\idadeParaDirigir.pdb
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.AssemblyInfoInputs.cache
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.AssemblyInfo.cs
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.csproj.CoreCompileInputs.cache
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.dll
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\refint\idadeParaDirigir.dll
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.pdb
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\idadeParaDirigir.genruntimeconfig.cache
+C:\projetos\vincit-aulas\idadeParaDirigir\obj\Debug\net9.0\ref\idadeParaDirigir.dll
